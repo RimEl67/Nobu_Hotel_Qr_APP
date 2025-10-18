@@ -1,0 +1,2 @@
+-- This file will be executed on startup to initialize data
+-- The DataInitializer component handles the initialization programmatically
